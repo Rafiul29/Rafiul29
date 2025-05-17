@@ -4,7 +4,7 @@ Hi 👋 My name is  Md Rafiul Islam
 Developer from Bangladesh
 -------------------------
 
-I am a Python developer with expertise in building web applications using Django and Django REST Framework. My skill set extends to front-end technologies like React.js and Next.js, along with experience in server-side rendering using Node.js. I am passionate about optimizing performance and delivering seamless user experiences.
+I am a Full Stack developer with expertise in building web applications using Django and Django REST Framework. My skill set extends to front-end technologies like React.js and Next.js, along with experience in server-side rendering using Node.js. I am passionate about optimizing performance and delivering seamless user experiences.
 
 
 ## 🌐 Connect with me:
