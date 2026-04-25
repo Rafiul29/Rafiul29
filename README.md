@@ -5,6 +5,7 @@ Developer from Bangladesh
 -------------------------
 
 Full-Stack Engineer | Laravel • Next.js • Express • React
+
 Expert in architecting secure, enterprise-grade SaaS and multi-tenant systems.
 I bridge complex backend logic with fluid frontends to ensure scalability and data integrity.
 Focused on high-performance applications, clean code, and seamless cross-device experiences.
